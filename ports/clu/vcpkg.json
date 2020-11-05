@@ -1,6 +1,6 @@
 {
     "name": "clu",
-    "version-string": "0.1.0",
+    "version-string": "0.3.0",
     "description": "Chlorie's collection of header-only small utilities",
     "dependencies": []
 }
