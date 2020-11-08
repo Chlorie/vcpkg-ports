@@ -1,8 +1,8 @@
 vcpkg_from_github(
     OUT_SOURCE_PATH SOURCE_PATH
     REPO Chlorie/clu
-    REF f50a7c11422bbb7577d944dff4d35b3529b6df11
-    SHA512 5225e6bb5cf40dc44b4cba02cade4a1ece855ac238b239e72d5777293667223cd6c2ed0cf7be2193bcaaecaf513def88a44578bbb70a603f3827042095c21b71
+    REF 0c8470b3e6abfe680b541e982a0688d71a15c073
+    SHA512 e8d236175f1cbf44ea54ba6db8dd74bd4cbdeec2eabc66153e60d0f8ffd888478a8f0feee9a068998df9ef3bb9f4f5bfe126baf04de951df1adbc725f3f64d02
     HEAD_REF master
 )
 
