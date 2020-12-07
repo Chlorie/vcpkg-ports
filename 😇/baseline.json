@@ -1,5 +1,5 @@
 {
     "default": {
-        "clu": { "version-string": "0.8.1" }
+        "clu": { "version-string": "0.11.3" }
     }
 }
