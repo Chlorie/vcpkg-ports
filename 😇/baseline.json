@@ -1,5 +1,6 @@
 {
     "default": {
-        "clu": { "version-string": "0.11.3" }
+        "clu": { "version-string": "0.12.0" },
+        "imgui-docking": { "version-string": "1.80-wip" }
     }
 }
