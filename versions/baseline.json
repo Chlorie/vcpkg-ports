@@ -1,0 +1,12 @@
+{
+    "default": {
+        "clu": {
+            "baseline": "0.14.2",
+            "port-version": 0
+        },
+        "imgui-docking": {
+            "baseline": "1.80-wip",
+            "port-version": 0
+        }
+    }
+}
