@@ -1,0 +1,9 @@
+{
+    "versions": [
+        {
+            "version-string": "0.14.2",
+            "port-version": 0,
+            "path": "$/ports/clu"
+        }
+    ]
+}

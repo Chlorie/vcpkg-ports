@@ -1,0 +1,8 @@
+{
+    "versions": [
+        {
+            "version-string": "1.80-wip",
+            "path": "$/ports/imgui-docking"
+        }
+    ]
+}
