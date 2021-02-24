@@ -9,7 +9,7 @@
             "port-version": 0
         },
         "miraipp": {
-            "baseline": "0.1.0"
+            "baseline": "0.1.1"
         }
     }
 }
