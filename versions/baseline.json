@@ -7,6 +7,9 @@
         "imgui-docking": {
             "baseline": "1.80-wip",
             "port-version": 0
+        },
+        "miraipp": {
+            "baseline": "0.1.0"
         }
     }
 }
