@@ -1,7 +1,7 @@
 {
     "default": {
         "clu": {
-            "baseline": "0.15.1"
+            "baseline": "0.16.0"
         },
         "imgui-docking": {
             "baseline": "1.80-wip",
