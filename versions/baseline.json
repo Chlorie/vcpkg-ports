@@ -11,6 +11,9 @@
         "miraipp": {
             "baseline": "0.1.2",
             "port-version": 3
+        },
+        "unifex": {
+            "baseline": "0.1.0"
         }
     }
 }
