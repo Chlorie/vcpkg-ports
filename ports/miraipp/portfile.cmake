@@ -1,10 +1,8 @@
-vcpkg_check_linkage(ONLY_STATIC_LIBRARY)
-
 vcpkg_from_github(
     OUT_SOURCE_PATH SOURCE_PATH
     REPO Chlorie/miraipp
-    REF 8efa694d3dc180e9cbee73532611c0cbd7e810f4
-    SHA512 f2a528c542b54dbd47ade14b8b1d246652ef22b14ddfe8a218da5b606ba1d8598c747c443df49365d573a2c8dc3dc1b40eecf30d94155384c58bb65dd61ca4c8
+    REF 5bdce6ffa8f6bca8f90c52e9cebb187c466b345c
+    SHA512 c509215ebce904a396aa3d90aa1074107db17f1008b35c465b3929dd2e52bb20bd85e0a0235fe82ed50d84aaf116fa7bb4217cf60c7d315efbad48ea50ab4ab7
     HEAD_REF master
 )
 
