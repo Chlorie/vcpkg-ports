@@ -1,7 +1,7 @@
 {
     "default": {
         "clu": {
-            "baseline": "0.21.2",
+            "baseline": "0.22.0",
             "port-version": 0
         },
         "imgui-docking": {
