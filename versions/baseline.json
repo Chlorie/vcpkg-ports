@@ -4,6 +4,10 @@
             "baseline": "0.22.0",
             "port-version": 0
         },
+        "console": {
+            "baseline": "0.1.0",
+            "port-version": 0
+        },
         "imgui-docking": {
             "baseline": "1.80-wip",
             "port-version": 0
