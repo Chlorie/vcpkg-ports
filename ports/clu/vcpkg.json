@@ -1,5 +1,13 @@
 {
     "name": "clu",
-    "version-string": "0.32.0",
-    "description": "Chlorie's collection of header-only small utilities"
+    "version-string": "0.33.0",
+    "description": "Chlorie's collection of small utilities",
+    "features": {
+        "testing": {
+            "description": "Build unit tests",
+            "dependencies": [
+                "catch2"
+            ]
+        }
+    }
 }
