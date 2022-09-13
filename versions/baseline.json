@@ -1,7 +1,7 @@
 {
     "default": {
         "clu": {
-            "baseline": "0.37.1",
+            "baseline": "0.38.0",
             "port-version": 0
         },
         "console": {
