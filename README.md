@@ -12,7 +12,8 @@ Enable `registries` feature flag in vcpkg and write a `vcpkg-configuration.json`
         {
             "kind": "git",
             "repository": "https://github.com/Chlorie/vcpkg-ports.git",
-            "packages": [ "List the packages that you want to use from my ports here" ]
+            "packages": [ "List the packages that you want to use from my ports here" ],
+            "baseline": /*hash of the latest commit to this repo*/
         }
     ]
 }
