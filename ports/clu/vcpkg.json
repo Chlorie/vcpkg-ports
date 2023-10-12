@@ -1,9 +1,9 @@
 {
     "name": "clu",
-    "version-string": "0.43.3",
+    "version-string": "0.43.4",
     "description": "Chlorie's collection of small utilities",
     "features": {
-        "testing": {
+        "build-tests": {
             "description": "Build unit tests",
             "dependencies": [
                 "catch2"
