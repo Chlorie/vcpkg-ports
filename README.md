@@ -21,9 +21,8 @@ Then, you also need to write a [`vcpkg-configuration.json`](https://learn.micros
 {
     "$schema": "https://raw.githubusercontent.com/microsoft/vcpkg-tool/main/docs/vcpkg-configuration.schema.json",
     "default-registry": {
-        "kind": "git",
-        "baseline": "cc97b4536ae749ec0e4f643488b600b217540fb3",
-        "repository": "https://github.com/microsoft/vcpkg"
+        "kind": "builtin",
+        "baseline": "cc97b4536ae749ec0e4f643488b600b217540fb3"
     },
     "registries": [
         {
